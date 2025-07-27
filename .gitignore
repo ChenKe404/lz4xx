@@ -11,12 +11,6 @@
 *.gch
 *.pch
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -36,6 +30,7 @@
 *.exe
 *.out
 *.app
+*.user
+lz4xx.h
 
-# debug information files
-*.dwo
+build
